@@ -1,0 +1,14 @@
+###############################
+#                             #
+#            Config           #
+#                             #
+###############################
+
+command: "true"
+commandWord: "!raid"
+channels: "true"
+channelName: "nut-bot"
+atEveryone: "true"
+customAt: "false"
+customAtID: ""
+
