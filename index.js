@@ -115,4 +115,4 @@ if (message.content.includes(`${ping}`)) {
 
 
 
-client.login("ODQ1OTgzNDU4ODExNTc2MzQy.YKo5fg.fcA_WisENjq72t5A_UfdMkVHtyw")
+client.login(config.token)
