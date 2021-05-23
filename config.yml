@@ -3,7 +3,7 @@
 #            Config           #
 #                             #
 ###############################
-
+token: ""
 command: "true"
 commandWord: "!raid"
 channels: "true"
